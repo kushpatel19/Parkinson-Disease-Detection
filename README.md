@@ -1,6 +1,6 @@
 # Parkinson-Disease-Detection
 
-This project aims to make use of Machine Leaning techniques to detect wheather a person have Perkinson's disease or not. In this project, following taaka were performed.
+This project aims to make use of Machine Leaning techniques to detect wheather a person have Perkinson's disease or not. In this project, following tasks were performed.
 - Data Processing
 - Data Collection
 - Data Analysis
